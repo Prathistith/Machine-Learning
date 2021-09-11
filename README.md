@@ -1,4 +1,4 @@
-<h3>My projects and implementations of various Machine Learning Algorithms.<h3>
+# My projects and implementations of various Machine Learning Algorithms.
 
 1) Decision Tree - Regression
 2) K-Means Clustering
